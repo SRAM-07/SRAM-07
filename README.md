@@ -20,7 +20,7 @@ I enjoy building backend systems, working with APIs, and developing data pipelin
 A Django-based application that extracts product pricing data from Amazon and Flipkart using web scraping and displays it for easy comparison.
 
 ## Portfolio
-https://srirammuthukumar.netlify.app
-
+ https://sram-07.github.io/sriram-portfolio/
+ 
 ## Contact
 sriramm015@gmail.com
